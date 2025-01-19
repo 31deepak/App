@@ -1,0 +1,21 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "photo": "https://via.placeholder.com/150",
+        "description": "Software Engineer",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+        "location": { "lat": 37.42216, "lng": -122.08427 }
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "photo": "https://via.placeholder.com/150",
+        "description": "Product Manager",
+        "address": "1 Infinite Loop, Cupertino, CA",
+        "location": { "lat": 37.33182, "lng": -122.03118 }
+      }
+    ]
+  }
+  
